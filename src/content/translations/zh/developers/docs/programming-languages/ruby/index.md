@@ -46,7 +46,7 @@ incomplete: false
 - [omniauth-nft](https://github.com/valthon/omniauth-nft) - _面向通过非同质化代币所有权进行身份验证的 OmniAuth 策略_
 - [ethereum-on-rails](https://github.com/q9f/ethereum-on-rails) - _Ethereum on Rails 模板，允许连接 MetaMask 到 Ruby on Rails_
 
-### 已存档/停止维护的资源 {#archived--no-longer-maintained}
+### 已归档/停止维护的资源 {#archived--no-longer-maintained}
 
 - [web3-eth](https://github.com/spikewilliams/vtada-ethereum) - _用 Ruby 调用以太坊节点的远程过程调用方法_
 - [ethereum_tree](https://github.com/longhoangwkm/ethereum_tree) - _用于根据 BIP32 标准从分层确定性钱包生成以太币地址的 Ruby 库_
